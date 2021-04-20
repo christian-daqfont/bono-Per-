@@ -1,0 +1,117 @@
+*{
+    margin: 0;
+    padding: 0;
+    margin: auto 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+   background-color:white;
+}
+.header{
+    height: 100px;
+    width: 1200px;
+    display: flex;
+}
+.titulo{
+    height: 100px;
+    width: 900px;
+    background-color: red;
+    color:white;
+    text-align:left;
+    font-size: 250%;
+    font-weight: bold;
+}
+.logo{
+    height:  100px;
+    width: 300px;
+    margin: auto 0;
+    
+}
+#espacio{
+    height: 30px;
+    width: 1200px;
+    background-color: white;
+    margin: auto 0;
+}
+
+.main{
+    height: 600px;
+    width: 1200px;
+    margin: auto 0;
+    background-color:white;
+    display: flex;
+}
+.foto{
+    height: 600px;
+    width: 350px;
+}
+.lado{
+    height: 600px;
+    width: 850px;
+    flex-direction: column-reverse;
+}
+.consulta{
+    height: 100px;
+    width: 850px;
+    background-color: red;
+    margin: auto 0;
+    color: white;
+    text-align: center;
+    font-size: 150%;
+}
+.textoconsulta1{
+    font-size: 100%;
+    padding: 0;
+}
+.textoconsulta2{
+    margin-top: 5px;
+    font-size: 150%;
+    font-weight:bold; 
+    padding: 0;  
+}
+
+.datos{
+    height: 250px;
+    width: 840px;
+    margin: auto 0;
+    background-color:white;
+    padding: 0;
+    font-size: 150%;
+}
+.consultar{
+    height: 80px;
+    width: 820px;
+    margin: auto 0;
+    background-color: red;
+    color: white;
+    text-align: center;
+    text-align: 150%;
+}
+.pregunta{
+    height: 160px;
+    width: 850px;
+    background-color: white;
+    color:blue;
+    text-align: center;
+    text-align: 300%;
+  
+}
+.footer{
+    height: 100px;
+    width: 1200px;
+    background-color: red;
+    margin: auto 0;
+}
+.preguntas{
+    color: white;
+    text-align: center;
+    text-align: 90%;
+}
+.logos{
+    margin: auto 0;
+    text-align: center;
+}
+.DATODNI{
+    height: 10px;
+    width: 300px;
+}
